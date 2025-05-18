@@ -2,6 +2,8 @@
 
 A free, standalone task management application with a unique tag-centric interface.
 
+![Taggy Todo Screenshot](screenshots/taggy-todo-screenshot.png)
+
 ## Philosophy: Everything is a Tag
 
 Taggy Todo is built on a simple yet powerful concept: **everything is a tag**. 
