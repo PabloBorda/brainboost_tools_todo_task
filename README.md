@@ -36,10 +36,39 @@ Each tag represents not just a category, but a potential filter, status indicato
 - **Visual Thinking**: Use colors and spatial organization that matches your mental model
 - **Zero Learning Curve**: Intuitive interface that anyone can use immediately
 
+## What Makes It Unique
+
+Taggy Todo stands apart from typical task management apps. While most productivity tools use tags as a secondary feature, Taggy Todo makes tags the central organizing principle. You won't find many applications that:
+
+- Allow tags to become the primary visual interface
+- Let you create a personal visual language through colored, draggable tags
+- Support attaching background images to tags to transform your workspace
+- Combine rich media support with a tag-first approach
+- Remain completely local and free from cloud dependencies
+
+This unique approach creates a more organic, intuitive way to organize information that adapts to your thinking style rather than forcing you into predefined structures.
+
+## Spread the Word
+
+Taggy Todo is completely free, and you can help promote it through these channels:
+
+- **Social Media**: Share screenshots of your setup on Twitter, Reddit, or productivity forums
+- **Blog Posts**: Write about your experience and workflow with Taggy Todo
+- **Open Source Communities**: Share with Python and PyQt communities
+- **Productivity Subreddits**: r/productivity, r/PersonalProjects, r/opensource
+- **Direct Sharing**: Show it to friends and colleagues who might benefit from a different approach to task management
+
 ## Contributing
 
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
 
 ## License
 
-This project is free and open source software. 
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0). This means:
+
+- You are free to use, copy, distribute and modify the software
+- If you distribute modified versions, you must make your source code available under the same license
+- Changes you make must be documented and dated
+- This full license can be found in the LICENSE file.
+
+This license ensures the software remains free for everyone while encouraging contributions back to the project. 
