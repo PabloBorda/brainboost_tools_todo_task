@@ -42,7 +42,7 @@ Learn more about the underlying technology at [Subjective Technologies](https://
 
 ## Screenshot
 
-![Taggy Todo Screenshot](screenshots/taggy_todo_screenshot.png)
+![Taggy Todo Screenshot](screenshots/taggy-todo-screenshot.png)
 
 ## License
 
