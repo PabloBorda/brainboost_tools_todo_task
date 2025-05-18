@@ -24,28 +24,25 @@ Learn more about the underlying technology at [Subjective Technologies](https://
 
 ## Getting Started
 
-### Prerequisites
-
-- Python 3.6 or higher
-- PyQt5
-- SQLite3
-
-### Installation
-
 1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/taggytodo.git
-```
+   ```bash
+   git clone https://github.com/brainboost/taggytodo.git
+   cd taggytodo
+   ```
 
 2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 3. Run the application:
-```bash
-python main.py
-```
+   ```bash
+   python main.py
+   ```
+
+## Screenshot
+
+![Taggy Todo Screenshot](screenshots/taggy_todo_screenshot.png)
 
 ## License
 
