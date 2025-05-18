@@ -1,74 +1,66 @@
 # Taggy Todo
 
-A free, standalone task management application with a unique tag-centric interface.
+A tag-centric task management application built with PyQt5, offering a unique approach to organizing tasks through a tag-based system.
 
-![Taggy Todo Screenshot](screenshots/taggy-todo-screenshot.png)
+## Philosophy
 
-## Philosophy: Everything is a Tag
+Taggy Todo is built on the innovative concept that "everything is a tag" - a core principle derived from the Subjective Technologies framework. This approach is part of the patent-pending Subjective Knowledge Hooks technology (USPTO Application: [US20220358283A1](https://patents.google.com/patent/US20220358283A1/en)).
 
-Taggy Todo is built on a simple yet powerful concept: **everything is a tag**. 
+The tag-centric philosophy allows for:
+- Flexible organization of tasks
+- Dynamic relationships between different items
+- Intuitive categorization
+- Seamless task management
 
-Traditional task management apps use rigid structures like lists, boards, or complex hierarchies. Taggy Todo breaks free from these constraints by reimagining the entire user interface as a collection of dynamic, colorful tags.
-
-Each tag represents not just a category, but a potential filter, status indicator, or visual organizer. The power is in the simplicity - tags can be dragged, filtered, colored, and even given background images to create a visual language that works for _your_ unique way of thinking.
+Learn more about the underlying technology at [Subjective Technologies](https://subjectivetechnologies.com).
 
 ## Key Features
 
-- **100% Free and Local**: Your data stays on your computer in a local SQLite database
-- **No Accounts Required**: No sign-ups, subscriptions, or cloud dependencies
-- **Tag-Based Organization**: Create unlimited tags with custom colors
-- **Visual Task Management**: Tasks appear as bubbles that can be tagged, filtered and organized
-- **Rich Media Support**: Drag and drop images and PDFs directly into tasks
-- **Customizable Interface**: Toggle between list and grid views, customize fonts, and choose light or dark mode
-- **Drag-and-Drop Workflow**: Intuitive interface for applying tags and managing tasks
-- **Powerful Filtering**: Instantly filter tasks by multiple tags
+- **Tag-Centric Organization**: Every task is organized through tags, making it easy to categorize and find related items
+- **Drag-and-Drop Interface**: Intuitive task management through simple drag-and-drop operations
+- **SQLite Database**: Reliable local storage for your tasks and tags
+- **Customizable Interface**: Adjust the application to match your preferences
+- **Cross-Platform**: Works on Windows, macOS, and Linux
 
 ## Getting Started
 
-1. Download the application (no installation required)
-2. Run `python todo.py`
-3. Start creating tasks and tags
+### Prerequisites
 
-## Why Taggy Todo?
+- Python 3.6 or higher
+- PyQt5
+- SQLite3
 
-- **Privacy First**: All data stays local - no tracking, no data collection
-- **Flexible Organization**: Break free from rigid organizational systems
-- **Visual Thinking**: Use colors and spatial organization that matches your mental model
-- **Zero Learning Curve**: Intuitive interface that anyone can use immediately
+### Installation
 
-## What Makes It Unique
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/taggytodo.git
+```
 
-Taggy Todo stands apart from typical task management apps. While most productivity tools use tags as a secondary feature, Taggy Todo makes tags the central organizing principle. You won't find many applications that:
+2. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
 
-- Allow tags to become the primary visual interface
-- Let you create a personal visual language through colored, draggable tags
-- Support attaching background images to tags to transform your workspace
-- Combine rich media support with a tag-first approach
-- Remain completely local and free from cloud dependencies
-
-This unique approach creates a more organic, intuitive way to organize information that adapts to your thinking style rather than forcing you into predefined structures.
-
-## Spread the Word
-
-Taggy Todo is completely free, and you can help promote it through these channels:
-
-- **Social Media**: Share screenshots of your setup on Twitter, Reddit, or productivity forums
-- **Blog Posts**: Write about your experience and workflow with Taggy Todo
-- **Open Source Communities**: Share with Python and PyQt communities
-- **Productivity Subreddits**: r/productivity, r/PersonalProjects, r/opensource
-- **Direct Sharing**: Show it to friends and colleagues who might benefit from a different approach to task management
-
-## Contributing
-
-Contributions are welcome! Feel free to fork the repository and submit pull requests.
+3. Run the application:
+```bash
+python main.py
+```
 
 ## License
 
-This project is licensed under the GNU General Public License v3.0 (GPL-3.0). This means:
+This project is licensed under the GNU GPL v3 License - see the [LICENSE](LICENSE) file for details.
 
-- You are free to use, copy, distribute and modify the software
-- If you distribute modified versions, you must make your source code available under the same license
-- Changes you make must be documented and dated
-- This full license can be found in the LICENSE file.
+## Acknowledgments
 
-This license ensures the software remains free for everyone while encouraging contributions back to the project. 
+- Built on the Subjective Technologies framework
+- Inspired by the patent-pending Subjective Knowledge Hooks technology
+- Special thanks to the open-source community for their invaluable tools and libraries
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## Contact
+
+For more information about the underlying technology, visit [Subjective Technologies](https://subjectivetechnologies.com). 
