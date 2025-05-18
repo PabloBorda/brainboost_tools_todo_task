@@ -2,6 +2,13 @@
 
 A tag-centric task management application built with PyQt5, offering a unique approach to organizing tasks through a tag-based system.
 
+
+## Screenshot
+
+![Taggy Todo Screenshot](screenshots/taggy-todo-screenshot.png)
+
+
+
 ## Philosophy
 
 Taggy Todo is built on the innovative concept that "everything is a tag" - a core principle derived from the Subjective Technologies framework. This approach is part of the patent-pending Subjective Knowledge Hooks technology (USPTO Application: [US20220358283A1](https://patents.google.com/patent/US20220358283A1/en)).
@@ -40,9 +47,6 @@ Learn more about the underlying technology at [Subjective Technologies](https://
    python main.py
    ```
 
-## Screenshot
-
-![Taggy Todo Screenshot](screenshots/taggy-todo-screenshot.png)
 
 ## License
 
