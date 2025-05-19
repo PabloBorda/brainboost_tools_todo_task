@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Taggy Todo
+Comment=Tag-centric task management application
+Exec=taggy
+Icon=com.github.subjective_technologies.taggy
+Terminal=false
+Type=Application
+Categories=Office;Utility;GTK;
+Keywords=Todo;Task;Management;Tags;
+StartupWMClass=Taggy Todo
+MimeType=text/plain;
+Version=1.0
+X-Flatpak=com.github.subjective_technologies.taggy 

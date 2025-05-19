@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>com.github.subjective_technologies.taggy</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0-or-later</project_license>
+  <name>Taggy Todo</name>
+  <summary>Tag-centric task management application</summary>
+  <description>
+    <p>
+      Taggy Todo is a task management application built on the innovative concept that "everything is a tag" - 
+      a core principle derived from the Subjective Technologies framework. This approach is part of the 
+      patent-pending Subjective Knowledge Hooks technology.
+    </p>
+    <p>
+      Key features:
+    </p>
+    <ul>
+      <li>Tag-Centric Organization: Every task is organized through tags</li>
+      <li>Drag-and-Drop Interface: Intuitive task management</li>
+      <li>SQLite Database: Reliable local storage</li>
+      <li>Customizable Interface: Adjust to your preferences</li>
+      <li>Cross-Platform: Works on Windows, macOS, and Linux</li>
+    </ul>
+  </description>
+  <url type="homepage">https://github.com/PabloBorda/brainboost_tools_todo_task</url>
+  <url type="bugtracker">https://github.com/PabloBorda/brainboost_tools_todo_task/issues</url>
+  <url type="help">https://github.com/PabloBorda/brainboost_tools_todo_task/wiki</url>
+  <developer_name>Subjective Technologies</developer_name>
+  <content_rating type="oars-1.1" />
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/PabloBorda/brainboost_tools_todo_task/main/screenshots/taggy-todo-screenshot.png</image>
+      <caption>Main interface of Taggy Todo</caption>
+    </screenshot>
+  </screenshots>
+  <releases>
+    <release version="1.0.0" date="2024-03-20">
+      <description>
+        <p>Initial release featuring tag-centric task management</p>
+      </description>
+    </release>
+  </releases>
+  <provides>
+    <binary>python3</binary>
+  </provides>
+  <launchable type="desktop-id">com.github.subjective_technologies.taggy.desktop</launchable>
+</component> 
